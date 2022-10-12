@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.83.2
+
+### Patch Changes
+
+- [`a83929d4`](https://github.com/ianstormtaylor/slate/commit/a83929d4d70750784d15f1d78a1966e7d559bdd7) Thanks [@dylans](https://github.com/dylans)! - Ensure the min-height for placeholders is set on the correct editor
+
 ## 0.83.1
 
 ### Patch Changes
